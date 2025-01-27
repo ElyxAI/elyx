@@ -1,4 +1,4 @@
-# Elyx
+# Elyx (Enhance your Solana Trading)   
 
 > Elyx is an AI-powered platform for the Solana ecosystem that seamlessly integrates intelligent agents for automated trading, portfolio management, and DeFi operations. Built with Next.js, TypeScript, and cutting-edge AI technology.
 
